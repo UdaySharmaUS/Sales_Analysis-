@@ -1,4 +1,4 @@
-Sales Analysis Project
+## Sales Analysis Project
 Introduction
 This project focuses on harnessing the power of Python's Pandas and Matplotlib libraries to analyze a comprehensive dataset comprising a year's worth of sales data from an electronics store. The dataset encompasses a multitude of transactions categorized by month, product type, cost, purchase address, and more.
 
