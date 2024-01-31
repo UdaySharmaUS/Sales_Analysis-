@@ -14,23 +14,23 @@ Transform data types using methods like to_numeric, to_datetime, and astype for 
 
 ## Business Questions
 
-###### Q1 - Best Month for Sales:
+#### Q1 - Best Month for Sales:
 
 Determine the highest-performing sales month and the revenue generated during that period.
 
-###### Q2 - Most Productive City:
+#### Q2 - Most Productive City:
 
 Identify the city that recorded the highest volume of product sales.
 
-###### Q3 - Optimal Advertisement Timing:
+#### Q3 - Optimal Advertisement Timing:
 
 Pinpoint the ideal time to display advertisements to increase the likelihood of customer purchases.
 
-###### Q4 - Frequently Sold Together Products:
+#### Q4 - Frequently Sold Together Products:
 
 Analyze which products are frequently sold together.
 
-###### Q5 - Top-Selling Product Analysis:
+#### Q5 - Top-Selling Product Analysis:
 
 Understand the top-selling product and hypothesize reasons behind its success.
 
