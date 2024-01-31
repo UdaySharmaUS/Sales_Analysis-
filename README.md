@@ -2,14 +2,15 @@
 ## Introduction
 This project leverages the capabilities of Python's Pandas and Matplotlib libraries to analyze a comprehensive dataset containing a year's worth of sales data from an electronics store. The dataset includes various transaction details such as month, product type, cost, purchase address, and more.
 
-Data Cleaning
-During this phase, we engage in various data cleaning tasks:
+## Data Cleaning
+During this phase, we perform various data cleaning tasks to ensure data integrity and facilitate meaningful analysis:
 
-Drop NaN values from DataFrame: Eliminate missing values to ensure data integrity.
-Removing rows based on a condition: Filter out rows that don't meet specific criteria.
-Change the type of columns: Transform data types (to_numeric, to_datetime, astype) for better analysis.
-Data Exploration
-In this phase, we pose and answer high-level business questions regarding our dataset:
+1. Drop NaN values from DataFrame
+Remove missing values to enhance data completeness.
+2. Removing Rows Based on a Condition
+Filter out rows that don't meet specific criteria to improve data quality.
+3. Change the Type of Columns
+Transform data types using methods like to_numeric, to_datetime, and astype for better analysis.
 
 Business Questions:
 Q1 - Best Month for Sales: Determining the highest-performing sales month and the revenue generated during that period.
